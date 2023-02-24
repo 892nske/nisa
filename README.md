@@ -6,6 +6,10 @@
 →リスク・リターンもGPIF公表値を使う<br>
 https://www.gpif.go.jp/topics/Adoption%20of%20New%20Policy%20Portfolio_Jp_details.pdf
 
+## 新NISA制度
+* 非課税枠は年間240万円、総額1800万円（成長投資枠）
+* 売却すれば翌年以降に枠が復活
+
 ## シミュレーション過程
 * 合計は、15年投資期間
 * 1~5年目は、年度初から240万ずっと投入
@@ -13,7 +17,7 @@ https://www.gpif.go.jp/topics/Adoption%20of%20New%20Policy%20Portfolio_Jp_detail
 * 運用期間中、各資産の配分比率は不変とする
 * リバランスは、年１回（？調整）行う
 
-## 比較＞
+## 比較
 NISA枠売却しないパターン<br>
 　と<br>
 NISA枠売却するパターン<br>
